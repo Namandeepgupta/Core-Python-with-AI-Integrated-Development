@@ -1,0 +1,5 @@
+Success - 1 pin input date/time : Wed Oct  7 23:06:48 2026
+Failed - user input pin : 2345 date/time : Wed Oct  7 23:06:56 2026
+Failed - user input pin : 2134 date/time : Wed Oct  7 23:06:59 2026
+Failed - user input pin : 12345 date/time : Wed Oct  7 23:07:04 2026
+Pin is blocked - Wed Oct  7 23:07:04 2026
